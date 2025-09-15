@@ -8,6 +8,8 @@
 html, body {
   height: 100%;
   width: 100%;
+  /* scrollbar-width: none;  */
+  /* remove the scroll bar */
 }
 #page1{
   height: 100%;
